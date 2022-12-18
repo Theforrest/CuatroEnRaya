@@ -9,6 +9,9 @@ import javax.naming.OperationNotSupportedException;
 
 import org.junit.Test;
 
+import cuatroenraya.modelo.Casilla;
+import cuatroenraya.modelo.Ficha;
+
 public class CasillaTest {
 	
 	private static final String CASILLA_DEBERIA_ESTAR_VACIA = "La casilla recién creada debería estar vacía.";

@@ -8,6 +8,9 @@ import javax.naming.OperationNotSupportedException;
 
 import org.junit.Test;
 
+import cuatroenraya.modelo.Ficha;
+import cuatroenraya.modelo.Tablero;
+
 public class TableroTest {
 	
 	private static final String TABLERO_DEBERIA_ESTAR_VACIO = "El tablero debería estar vacío.";

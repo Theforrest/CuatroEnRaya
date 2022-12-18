@@ -7,6 +7,9 @@ import static org.junit.Assert.fail;
 
 import org.junit.Test;
 
+import cuatroenraya.modelo.Ficha;
+import cuatroenraya.modelo.Jugador;
+
 public class JugadorTest {
 	
 	private static final String NOMBRE_NO_ESPERADO = "El nombre del jugador recién creado no es el esperado.";

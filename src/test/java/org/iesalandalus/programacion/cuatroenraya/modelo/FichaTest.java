@@ -1,12 +1,14 @@
 package org.iesalandalus.programacion.cuatroenraya.modelo;
 
 import static org.hamcrest.CoreMatchers.is;
-import static org.junit.Assert.assertThat;
+import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import cuatroenraya.modelo.Ficha;
+
 public class FichaTest {
-	
+
 	private static final String ERROR_FICHA_NO_VALIDA = "ERROR: El color de la ficha no es válido.";
 
 	@Test
